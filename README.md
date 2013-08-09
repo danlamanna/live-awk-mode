@@ -31,6 +31,6 @@ It (sort of) works!
 
 ## Contribution Ideas
 - Setting it up to use proper emacs processes (`start-process`)
-- Possible integration with vlfi for large result sets.
+- Possible integration with [vlfi](https://github.com/m00natic/vlfi) for large result sets.
 - Cleaning up popup window, maybe using `popwin` or at least, read-only buffers.
 - Perhaps highlighting in the result set of where the cursor in the `awk-mode` buffer corresponds to.
