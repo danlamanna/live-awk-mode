@@ -22,9 +22,9 @@
 ;;; Commentary:
 
 ;; Example Usage:
-;; (add-hook 'awk-mode (lambda()
-;;                        (require 'live-awk)
-;;                        (live-awk-mode 1)))
+;; (add-hook 'awk-mode-hook (lambda()
+;;                              (require 'live-awk)
+;;                              (live-awk-mode 1)))
 
 ;;; Code:
 
