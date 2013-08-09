@@ -53,6 +53,7 @@
   :group 'live-awk
   :type  'string)
 
+;;;###autoload
 (define-minor-mode live-awk-mode
   "Build awk commands interactively with live result sets."
   nil
